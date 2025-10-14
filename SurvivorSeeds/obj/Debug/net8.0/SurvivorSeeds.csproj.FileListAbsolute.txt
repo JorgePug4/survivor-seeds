@@ -1,0 +1,14 @@
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\obj\Debug\net8.0\SurvivorSeeds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\obj\Debug\net8.0\SurvivorSeeds.AssemblyInfoInputs.cache
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\obj\Debug\net8.0\SurvivorSeeds.AssemblyInfo.cs
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\obj\Debug\net8.0\SurvivorSeeds.csproj.CoreCompileInputs.cache
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\obj\Debug\net8.0\SurvivorSeeds.dll
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\obj\Debug\net8.0\refint\SurvivorSeeds.dll
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\obj\Debug\net8.0\SurvivorSeeds.pdb
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\bin\Debug\net8.0\SurvivorSeeds.exe
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\bin\Debug\net8.0\SurvivorSeeds.deps.json
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\bin\Debug\net8.0\SurvivorSeeds.runtimeconfig.json
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\bin\Debug\net8.0\SurvivorSeeds.dll
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\bin\Debug\net8.0\SurvivorSeeds.pdb
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\obj\Debug\net8.0\SurvivorSeeds.genruntimeconfig.cache
+D:\Projects\Net\SurvivorSeeds\SurvivorSeeds\obj\Debug\net8.0\ref\SurvivorSeeds.dll

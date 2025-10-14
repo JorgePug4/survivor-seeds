@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Net\\SurvivorSeeds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|d:\\projects\\net\\survivorseeds\\survivorseeds\\data\\teammatches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|solutionrelative:survivorseeds\\data\\teammatches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|d:\\projects\\net\\survivorseeds\\survivorseeds\\data\\matches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|solutionrelative:survivorseeds\\data\\matches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|d:\\projects\\net\\survivorseeds\\survivorseeds\\data\\nosql\\matches.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|solutionrelative:survivorseeds\\data\\nosql\\matches.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|d:\\projects\\net\\survivorseeds\\survivorseeds\\data\\nosql\\weeks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|solutionrelative:survivorseeds\\data\\nosql\\weeks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|d:\\projects\\net\\survivorseeds\\survivorseeds\\data\\teammatches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|solutionrelative:survivorseeds\\data\\teammatches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|d:\\projects\\net\\survivorseeds\\survivorseeds\\data\\matches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A91907F7-6388-46AE-AFB4-56B419ED62FF}|SurvivorSeeds\\SurvivorSeeds.csproj|solutionrelative:survivorseeds\\data\\matches.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1641060649:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1431690749:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1411221476:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matches.sql ",
+              "DocumentMoniker": "D:\\Projects\\Net\\SurvivorSeeds\\SurvivorSeeds\\Data\\Matches.sql",
+              "RelativeDocumentMoniker": "SurvivorSeeds\\Data\\Matches.sql",
+              "ToolTip": "D:\\Projects\\Net\\SurvivorSeeds\\SurvivorSeeds\\Data\\Matches.sql",
+              "RelativeToolTip": "SurvivorSeeds\\Data\\Matches.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-08T03:30:41.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamMatches.sql ",
+              "DocumentMoniker": "D:\\Projects\\Net\\SurvivorSeeds\\SurvivorSeeds\\Data\\TeamMatches.sql",
+              "RelativeDocumentMoniker": "SurvivorSeeds\\Data\\TeamMatches.sql",
+              "ToolTip": "D:\\Projects\\Net\\SurvivorSeeds\\SurvivorSeeds\\Data\\TeamMatches.sql",
+              "RelativeToolTip": "SurvivorSeeds\\Data\\TeamMatches.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-04T20:09:21.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weeks.json",
+              "DocumentMoniker": "D:\\Projects\\Net\\SurvivorSeeds\\SurvivorSeeds\\Data\\NoSql\\Weeks.json",
+              "RelativeDocumentMoniker": "SurvivorSeeds\\Data\\NoSql\\Weeks.json",
+              "ToolTip": "D:\\Projects\\Net\\SurvivorSeeds\\SurvivorSeeds\\Data\\NoSql\\Weeks.json",
+              "RelativeToolTip": "SurvivorSeeds\\Data\\NoSql\\Weeks.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T20:07:36.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matches.json",
+              "DocumentMoniker": "D:\\Projects\\Net\\SurvivorSeeds\\SurvivorSeeds\\Data\\NoSql\\Matches.json",
+              "RelativeDocumentMoniker": "SurvivorSeeds\\Data\\NoSql\\Matches.json",
+              "ToolTip": "D:\\Projects\\Net\\SurvivorSeeds\\SurvivorSeeds\\Data\\NoSql\\Matches.json",
+              "RelativeToolTip": "SurvivorSeeds\\Data\\NoSql\\Matches.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T20:07:29.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
